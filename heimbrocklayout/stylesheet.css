@@ -1,0 +1,15 @@
+/*formatting banner*/
+.masthead{
+    background:#fa8128;
+   padding: 2rem;
+   text-align: center;
+}
+.masthead-logo{
+    max-width: 1000px;
+    height: auto;
+}
+/*formatting the content div*/
+#content{
+    margin: 0 auto;
+    width: 900px;
+}

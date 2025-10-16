@@ -1,0 +1,16 @@
+/*styles for bootstrap template*/
+
+/*centering columns*/
+.col-md-6{
+    text-align: center;
+}
+
+/*fixing the three columns because it is irritating me*/
+.col-md-4{
+    text-align:center;
+}
+
+/*making my icon 3em*/
+.bi bi-arrow-through-heart{
+    size: 500em;
+}
