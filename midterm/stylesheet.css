@@ -1,0 +1,39 @@
+.masthead{
+    padding:2rem;
+    text-align:center;
+}
+
+.masthead-logo{
+    max-width: 1400px;
+    height:auto;
+}
+
+#bylinedate{
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+}
+
+h1 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+h2 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 19px; font-style: italic; font-variant: normal; font-weight: 700; line-height: 26.4px;}
+
+h3 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+
+p { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
+
+li{
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+}
+
+blockquote { text-indent: 2rem; Futura, "Trebuchet MS", Arial, sans-serif; font-size: 30px; font-style: italic; font-variant:small-caps; font-weight: 400; line-height: 30px; color:crimson} 
+
+/*formatting div*/
+#content{
+    margin: 0 auto;
+    width: 900px;
+}
+
+.image1{
+    width: 100%;
+    max-width: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
